@@ -35,6 +35,15 @@ Aggregated and business-ready tables (*_gold) are created for visualization in P
 
 ---
 
+## 🧑‍💻 Tools & Technologies
+- Databricks
+- PySpark
+- Azure Data Lake Storage (ADLS)
+- Power BI / Databricks Visualization
+- SQL
+- Python
+
+---
 ## ⚙ Datasets & Architecture
 ![Databricks](https://github.com/iouhyt6e54as/databricks--PowerBi/blob/main/images/project%20pipline.jpg?raw=true)
 
@@ -125,21 +134,14 @@ A scalable, professional data solution delivering insights on:
 
 ---
 
-## 🧑‍💻 Tools & Technologies
-- Databricks
-- PySpark
-- Azure Data Lake Storage (ADLS)
-- Power BI / Databricks Visualization
-- SQL
-- Python
 
----
 
 ## 👩‍💼 Author
 Shahd Ahmed Farghaly  
 Data Science Student – Alexandria University  
 📧 shahdfarghaly2005@gmail.com 
 🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-farghaly-bb9356332)
+
 
 
 
