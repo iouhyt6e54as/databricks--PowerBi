@@ -134,7 +134,7 @@ A scalable, professional data solution delivering insights on:
 ---
 
 ## 👩‍💼 Author
-Shahd Ahmed Farghaly 
+Shahd Ahmed Farghaly  
 Data Science Student – Alexandria University  
 📧 shahdfarghaly2005@gmail.com 
 🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-farghaly-bb9356332)
