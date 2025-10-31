@@ -9,7 +9,7 @@ The goal is to build an end-to-end data pipeline that delivers actionable busine
 ---
 
 ## ⚙ Datasets & Architecture
-![Databricks](images/databricks.jpg.png)
+![Databricks](https://github.com/Shahd%20Farghaly/databricks--PowerBi/blob/main/images/databricks.png?raw=true)
 ### Source Data (Bronze Layer)
 The following datasets are loaded from Azure Data Lake (Parquet files):
 - Products
@@ -138,4 +138,5 @@ Shahd Ahmed Farghaly
 Data Science Student – Alexandria University  
 📧 shahdfarghaly2005@gmail.com 
 🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-farghaly-bb9356332)
+
 
