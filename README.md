@@ -7,6 +7,33 @@ It connects to Azure Data Lake Storage, loads multiple datasets, performs ETL tr
 The goal is to build an end-to-end data pipeline that delivers actionable business insights across sales, customers, stores, and product performance.
 
 ---
+## 🧱 Notebook Technical Workflow
+![Databricks](https://github.com/iouhyt6e54as/databricks--PowerBi/blob/main/images/databricks.jpg?raw=true)
+
+
+### 1. Welcome Message
+Ensures that the Databricks environment is active.
+
+### 2. Azure Data Lake Connection
+Configures Spark credentials to securely access Azure Data Lake Storage.
+
+### 3. Load Datasets
+Loads Parquet files into Spark DataFrames:
+- df_products
+- df_transactions
+- df_stores
+- df_customers
+
+### 4. Bronze Tables Creation
+Raw data saved into Databricks under the schema shahdfarghaly.sales (e.g., *_bronze).
+
+### 5. Data Transformation
+Intermediate cleaning and transformation steps prepare the data for analytics.
+
+### 6. Gold Tables Creation
+Aggregated and business-ready tables (*_gold) are created for visualization in Power BI or Databricks dashboards.
+
+---
 
 ## ⚙ Datasets & Architecture
 ![Databricks](https://github.com/iouhyt6e54as/databricks--PowerBi/blob/main/images/project%20pipline.jpg?raw=true)
@@ -81,33 +108,6 @@ Visuals:
 
 ---
 
-## 🧱 Notebook Technical Workflow
-![Databricks](https://github.com/iouhyt6e54as/databricks--PowerBi/blob/main/images/databricks.jpg?raw=true)
-
-
-### 1. Welcome Message
-Ensures that the Databricks environment is active.
-
-### 2. Azure Data Lake Connection
-Configures Spark credentials to securely access Azure Data Lake Storage.
-
-### 3. Load Datasets
-Loads Parquet files into Spark DataFrames:
-- df_products
-- df_transactions
-- df_stores
-- df_customers
-
-### 4. Bronze Tables Creation
-Raw data saved into Databricks under the schema shahdfarghaly.sales (e.g., *_bronze).
-
-### 5. Data Transformation
-Intermediate cleaning and transformation steps prepare the data for analytics.
-
-### 6. Gold Tables Creation
-Aggregated and business-ready tables (*_gold) are created for visualization in Power BI or Databricks dashboards.
-
----
 
 ## 🧾 Summary
 This project represents a complete data engineering and analytics pipeline, including:
@@ -140,6 +140,7 @@ Shahd Ahmed Farghaly
 Data Science Student – Alexandria University  
 📧 shahdfarghaly2005@gmail.com 
 🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-farghaly-bb9356332)
+
 
 
 
