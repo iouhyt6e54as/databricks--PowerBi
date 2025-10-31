@@ -82,7 +82,7 @@ Visuals:
 ---
 
 ## 🧱 Notebook Technical Workflow
-![Technical Workflow](https://github.com/iouhyt6e54as/databricks--PowerBi/blob/main/images/project%20pipline.jpg.png?raw=true)
+![Databricks](https://github.com/iouhyt6e54as/databricks--PowerBi/blob/main/images/databricks.jpg?raw=true)
 
 
 ### 1. Welcome Message
@@ -140,6 +140,7 @@ Shahd Ahmed Farghaly
 Data Science Student – Alexandria University  
 📧 shahdfarghaly2005@gmail.com 
 🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-farghaly-bb9356332)
+
 
 
 
