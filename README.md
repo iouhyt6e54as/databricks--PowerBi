@@ -119,4 +119,3 @@ A scalable, professional data solution delivering insights on:
 _Data Science Student – Alexandria University_  
 📧 **shahdfarghaly2005@gmail.com**  
 🔗 [LinkedIn Profile](www.linkedin.com/in/shahd-farghaly-bb9356332)
-
